@@ -1,0 +1,5 @@
+{
+  "description": "Apply 10% discount if age > 60",
+  "target_field": "premium",
+  "change_type": "transformation_update"
+}
