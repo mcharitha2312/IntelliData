@@ -1,0 +1,4 @@
+{
+  "fields": ["age", "premium", "policy_type"],
+  "logic": "if age > '60' : premium = premium * 1.1 else premium = premium"
+}
