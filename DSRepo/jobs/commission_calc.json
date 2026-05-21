@@ -1,0 +1,4 @@
+{
+  "fields": ["agentID", "commission", "tenure"],
+  "logic": "if tenure == 'long': commission = commission * 4 else commission = commission"
+}
