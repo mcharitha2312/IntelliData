@@ -1,5 +1,5 @@
 {
   "description": "Give 8% commission for long tenure agents",
-  "target_field": "comission",
+  "target_field": "commission",
   "change_type": "transformation_update"
 }
